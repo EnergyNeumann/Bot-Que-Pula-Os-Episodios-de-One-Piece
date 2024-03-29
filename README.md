@@ -8,6 +8,12 @@ Segue o link: https://youtu.be/qIpgWsP37ck
 ### Pré-requisitos
 - IDE recomendada: Visual Studio Code (ou outra IDE de sua preferência)
 - Python3 instalado na máquina
+- Instalar o pyautogui na máquina
+
+### Instalação do pyautogui
+1. Abra o seu cmd
+2. Digite pip install pyautogui
+3. Aperte enter
 
 ### Configuração
 Clone o repositório:
