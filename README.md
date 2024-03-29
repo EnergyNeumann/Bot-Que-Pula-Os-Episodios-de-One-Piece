@@ -1,5 +1,5 @@
 ## Bot Que Pula Os Episodios de One Piece
-![banner]()
+![banner](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece/blob/main/banner.jpeg)
 Este bot irá pular o episódio de One Piece, antes de começarem aquelas reviews do próximo episódio (spoiler). Após pular o episódio, ele irá pular automaticamente o resumo inicial, que normalmente são os 2 primeiros minutos de episódio.
 
 ### Vídeo demonstração
