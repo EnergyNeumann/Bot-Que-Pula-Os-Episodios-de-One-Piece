@@ -15,7 +15,7 @@ git clone https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piec
 
 ### Uso
 - Configure quantos episódios deseja pular, alterando o número 10 para a quantidade desejada:
-![contador]()
+![contador](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece/blob/main/contador.png)
 - Clique em rodar o código
 - Entre no seu episódio de One Piece e deixa em tela cheia
 - Curta o episódio
