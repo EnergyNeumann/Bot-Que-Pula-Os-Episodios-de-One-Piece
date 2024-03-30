@@ -24,7 +24,7 @@ git clone https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piec
 2. Configure quantos episódios deseja pular, alterando o número 10 para a quantidade desejada:
 ![contador](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece/blob/main/contador.png)
 3. Clique em rodar o código
-4. Entre no seu episódio de One Piece e deixa em tela cheia
+4. Entre no seu episódio de One Piece e deixa em tela cheia (eu usei a Crunchyroll para assistir)
 5. Curta o episódio
 6. Quando ele acabar, será pulado assim que aparecer a tela "TO BE CONTINUED"
 7. Será pulado também o resumo inicial do episódio
