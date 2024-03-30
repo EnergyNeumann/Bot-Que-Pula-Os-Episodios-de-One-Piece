@@ -31,10 +31,11 @@ git clone https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piec
 8. Curta o próximo, próximo e próximo episódio
 
 ### Licença
-Este projeto é licenciado sob a Licença MIT License.
+Este projeto é licenciado sob a Licença GNU General Public License v3.0.
 
 ### Autores
 - Richard Neumann - EnergyNeumann
+- Todos os direitos reservados ao Richard Neumann
 
 ### Contato
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
